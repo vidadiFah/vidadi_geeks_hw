@@ -27,6 +27,4 @@ public class Hero {
     public String getAbility() {
         return ability;
     }
-
-
 }

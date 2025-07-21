@@ -1,5 +1,4 @@
 package hw_5.main;
-
 import hw_5.templates.Boss;
 import hw_5.templates.Hero;
 

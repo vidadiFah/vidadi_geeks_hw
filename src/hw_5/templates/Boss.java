@@ -38,4 +38,5 @@ public class Boss {
             this.bossDefence = bossDefence;
             }
     }
+
 }
